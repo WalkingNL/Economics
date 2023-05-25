@@ -63,7 +63,46 @@ A[方形] -->B(圆角)
 ### 资产
 
 
+###
+## U.S. Federal Reserve System
+Func1: the management of total outstanding supply of U.S. dolloar and dollar substitute
+
+the ways of money supply
+1. to run new paper bills off of a machine
+2. depited to and credited to commertial banks (main way)
+    
+        "depited to commercial banks" means a decrease of bank reserves. It means the banks' reserves are decreased. This can happen when the Federal Reserve sells securities to commercial banks and the banks pay for them by transfering money from thier reserves to the Federal Reserves. 
+        
+        while "credited to commertial banks" means an increase of banks reserves. It means that the banks' reserves are increased. This can happen when the Federal Reserve buys securities from commercial banks and pays for them by transfering money its own account to the banks' reserve.
+        
+        For the commercial banks, the amount of money that they have available to lend out their customers is affected by these transanctions, which will finally influence the overall money supply in the economy.
+        
+
+> Printing Money
+>> Printing money is the job of the Federal Reserve, `but only figuratively speaking`. When the Fed decides to stimulate the economy by pouring more money into the system, it electronically transfers additional credits to the deposits of its member banks.
 
 
+### how does the Fed work
+- FOMC and economical advisor meet regularly to talk about the situation of money supply.
+- the Fed targets the amount of money supply
+- teh Fed institutes corresponding policies to inject the new money into the economy.
+- tracking money
+    - paper bills and mental coins
+    - saving acounts and checking accounts
+    - money market funds 
+    - short-term notes
 
+### how the Fed increases the money supply
+> Open Market Operation (OMO) (the most common method)
+>> to inject or absort money by buying or selling the treasure bonds
 
+> repurchase agreements for temporary expansions
+
+> the discount window for short-term loans to banks
+
+### use of Monetary Aggregates
+- which people often refer to the metric of Monetary Aggregates
+    - ordinary investor and economists
+- the metrics of monetary aggregates
+    - the monetary aggregates' rate of change
+    - the monetary velocity overall
