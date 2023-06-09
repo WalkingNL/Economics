@@ -156,28 +156,38 @@ issuing and controlling the money supply are not the banks. because the banks ha
 
 1. how did the Fed deal with this crisis, what policies did the Fed take
 
-A theory:
-```
-the Fed should issue money when the activity of the economy expanded, and contract monetary supply when economic activity contracted.
-```
-this theory was emerging to bring up the tide of call loans, which fueled `the financial euphoria`. ultimately resulting in the increased risk of investing borrowed money in the stock market. In order to calm down the over-heated market, (1), the Fed favored a policy that allowed the reserve banks to deny the requests for credit from their member banks that loaned funds to stock speculators and warn the public of the dangers of speculation. (2), to raise the discount lending rate. this approach directly increase the cost of borrowing money from the Fed by banks, and thereby indirectly raise rates paid by borrowers, including consumbers and firm.
+- A theory:
+    ```
+        the Fed should issue money when the activity of the economy expanded, and contract monetary supply when economic activity contracted.
+    ```
+    this theory was emerging to bring up the tide of call loans, which fueled `the financial euphoria`. ultimately resulting in the increased risk of investing borrowed money in the stock market. In order to calm down the over-heated market, (1), the Fed favored a policy that allowed the reserve banks to deny the requests for credit from their member banks that loaned funds to stock speculators and warn the public of the dangers of speculation. (2), to raise the discount lending rate. this approach directly increase the cost of borrowing money from the Fed by banks, and thereby indirectly raise rates paid by borrowers, including consumbers and firm.
 
 
-some unintended consequences of raising interest rate.
----
-- to incentivize other countries to raise interest rates, and consequently slow down the global economy.
-- the global economy entered into recession.
-- the stock market crashed. which was the result of the Fed's policy to raise interest rate. Those who had borrowed money to invest in the stock market were forced to sell their stocks to pay back their loans.
-- banks chaos. Funds that fled to stock market flowed into New York city's commercial banks, and in fact, these banks also took on millions of dollars in the stock-market loans. Therefore, a large amount of money flowed into or out of the banks frequently and rapidly would bring some troubles for banks.
+    some unintended consequences of raising interest rate.
+    ---
+  - to incentivize other countries to raise interest rates, and consequently slow down the global economy.
+  - the global economy entered into recession.
+  - the stock market crashed. which was the result of the Fed's policy to raise interest rate. Those who had borrowed money to invest in the stock market were forced to sell their stocks to pay back their loans.
+  - banks chaos. Funds that fled to stock market flowed into New York city's commercial banks, and in fact, these banks also took on millions of dollars in the stock-market loans. Therefore, a large amount of money flowed into or out of the banks frequently and rapidly would bring some troubles for banks.
 
-```
-tips: what is the international gold standard
+    ```
+    tips: what is the international gold standard
 
-It is an international monetary system where gold and currency can be converted into each other at a fixed rate value. Therefore, the standard existed between 1876 and 1914, the period before World War I. During this time, most countries adopted the gold standard and the value of a local currency was defined in terms of gold. The gold standard was used to manage economies. It was believed that a currency's value was linked to the amount of gold held by the central bank. Therefore, the gold standard was used to control the money supply in an economy. The gold standard was also used to control inflation. The gold standard was abandoned during World War I. It was replaced by the Bretton Woods system in 1944.
-```
+    It is an international monetary system where gold and currency can be converted into each other at a fixed rate value. Therefore, the standard existed between 1876 and 1914, the period before World War I. During this time, most countries adopted the gold standard and the value of a local currency was defined in terms of gold. The gold standard was used to manage economies. It was believed that a currency's value was linked to the amount of gold held by the central bank. Therefore, the gold standard was used to control the money supply in an economy. The gold standard was also used to control inflation. The gold standard was abandoned during World War I. It was replaced by the Bretton Woods system in 1944.
+    ```
+- to apply discount window to inject more liquidity into the bank system.
+    - to purchase government securities on the open market
+    - to lower the discount rate
 
+## consequency
 
+as the stock-market collapsed, the fear, uncertain and doubt, that is, FUD spread rapidly. unemployment rised, corporation bankruptcy. Men and women invested in stock with borrowed money lost their life savings, and they can't pay their bills. Firms that depend on manufacturing saw the demands declined, so they also slowed production. The contraction started.
 
+Everytime, governments, economists, and average people would get a lot of lessons throughout an economic crisies, especially in the great depression. We saw how crazy most people were when the market mood was in a fully unreasonable state. However, once they felt a change, the mood completely reversed, most people would gave up everything out of fear. Finally, only few people can go through a crisis successfully.
+
+For policymakers, this crisis bring a lot of experiences for them. (1), The monetary supply needs to be moderate, exceeding the real demand of the market would make the market out of control; (2) how often is adjusting the interest rates suitable; (3) how much is adjusting the interest rates; (4) how to evaluate the quantify the actual state of the current market; (5) how to monitor the market indicator.
+
+#
 ### some words I'm not familiar with
 
 contraction
