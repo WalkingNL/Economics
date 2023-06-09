@@ -106,3 +106,87 @@ the ways of money supply
 - the metrics of monetary aggregates
     - the monetary aggregates' rate of change
     - the monetary velocity overall
+
+### bank reserves
+> range of bank reserve
+>> 0 to 10 percent deposited
+
+> bank reserve requirement
+>> the Fed requires banks to keep a certain percentage of their deposits on hand, either in their vaults or on deposit with the Fed itself. This is called the reserve requirement. The Fed can change the reserve requirement to increase or decrease the amount of money in the economy.
+
+> why the Fed requires banks to keep a certain percentage of their deposits on hand
+>> to ensure that banks have enough money to meet the demand for withdrawals
+
+> Liquidity coverage ratio (LCR)
+>> a requirement that banks hold enough liquid assets to cover their short-term obligations
+
+conclusion: the Fed requires banks to keep a certain percentage of their deposits on hand to ensure that banks have enough money to meet the demand for withdrawals. This is called the reserve requirement. The Fed can change the reserve requirement to increase or decrease the amount of money in the economy.
+
+### the Fed's balance sheet
+> the Fed's balance sheet
+>> the Fed's assets and liabilities are listed on its balance sheet, which is published every week, and the Fed's balance sheet is a snapshot of the Fed's financial position at a given moment.
+
+#
+### the origin of the Fed
+
+the National Reserve Association, proposed by aldrich, referred to the european central bank system, because the european central bank system was the most successful central bank system at that time, which was better than the government-issued bond system. Even though the proposal was met with opposition from some politicians, it was still passed by the Congress in 1913.
+
+the secret expedition to Jekyll Island, Georgia, in 1910, which was a meeting of the nation's top financiers, including Aldrich, to discuss monetary policy and the banking system, and the meeting was held in secret because the financiers did not want the public to know that they were meeting to discuss monetary policy and the banking system. the meeting eventually led to the creation of the Federal Reserve System.
+
+the currency issued by the Fed is a liability of the Fed, not of the government. 
+
+the `alderich plan` was passed, but it was the result of a compromise between the alderich plan and the `glass plan`, which was proposed by Carter Glass, a congressman from Virginia. The compromise was called the `federal reserve act`. some progress Democratic Party members demanded that (1) the federal reserve banks and currency supply be controlled by the government to counter the "money trust", and (2) detroy the existing concentration of credit resources in Wall street. 
+
+issuing and controlling the money supply are not the banks. because the banks have relationships with the Wall street, which would lead to the concentration of credit resources in Wall street.
+
+
+### the great depression
+
+1. what did the average individuals experience during the great depression
+
+- Food shortage, we can see that a large number of people get in line to get emergency food aid in the picture from internet at that time.
+- Families suffered, marriage rates fell (or dropped)
+
+2. what about the real economical situation during the great depression
+- stock market crash, the Dow industrial index declined from its highest point of 381 on Oct 28, 1929 to a new bottom closed at 41.22 in the summer of 1932. The dow had lost 90% of its value. Although there were several times that the Dow rose in the nearly 3 years, it ultimately continued to slide lower.
+
+
+- a series of banks crash
+- a series of national and international financial crises 
+
+1. how did the Fed deal with this crisis, what policies did the Fed take
+
+A theory:
+```
+the Fed should issue money when the activity of the economy expanded, and contract monetary supply when economic activity contracted.
+```
+this theory was emerging to bring up the tide of call loans, which fueled `the financial euphoria`. ultimately resulting in the increased risk of investing borrowed money in the stock market. In order to calm down the over-heated market, (1), the Fed favored a policy that allowed the reserve banks to deny the requests for credit from their member banks that loaned funds to stock speculators and warn the public of the dangers of speculation. (2), to raise the discount lending rate. this approach directly increase the cost of borrowing money from the Fed by banks, and thereby indirectly raise rates paid by borrowers, including consumbers and firm.
+
+
+some unintended consequences of raising interest rate.
+---
+- to incentivize other countries to raise interest rates, and consequently slow down the global economy.
+- the global economy entered into recession.
+- the stock market crashed. which was the result of the Fed's policy to raise interest rate. Those who had borrowed money to invest in the stock market were forced to sell their stocks to pay back their loans.
+- banks chaos. Funds that fled to stock market flowed into New York city's commercial banks, and in fact, these banks also took on millions of dollars in the stock-market loans. Therefore, a large amount of money flowed into or out of the banks frequently and rapidly would bring some troubles for banks.
+
+```
+tips: what is the international gold standard
+
+It is an international monetary system where gold and currency can be converted into each other at a fixed rate value. Therefore, the standard existed between 1876 and 1914, the period before World War I. During this time, most countries adopted the gold standard and the value of a local currency was defined in terms of gold. The gold standard was used to manage economies. It was believed that a currency's value was linked to the amount of gold held by the central bank. Therefore, the gold standard was used to control the money supply in an economy. The gold standard was also used to control inflation. The gold standard was abandoned during World War I. It was replaced by the Bretton Woods system in 1944.
+```
+
+
+
+### some words I'm not familiar with
+
+contraction
+
+contradictory
+
+pursue
+
+coordinate
+
+
+call loans, refers to short-term loan that a lender demand the borrowers to repay at any time.
