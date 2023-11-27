@@ -179,6 +179,16 @@ issuing and controlling the money supply are not the banks. because the banks ha
     - to purchase government securities on the open market
     - to lower the discount rate
 
+the strategies in response to Financial crisis 
+
+    1. To lower the Fed funds rate in response to weakening economic conditions. If this situation intensified, the fed would take the rate down even to floor.
+
+    2. To initiate a series of Large-scale asset purchase(LSAP) programs.
+		buying mortgage-backed security
+		longer-term Treasury securities
+    3. QE, Quantitative Easing
+    4. To remain the low level of the Fed funds rate 
+
 ## consequency
 
 as the stock-market collapsed, the fear, uncertain and doubt, that is, FUD spread rapidly. unemployment rised, corporation bankruptcy. Men and women invested in stock with borrowed money lost their life savings, and they can't pay their bills. Firms that depend on manufacturing saw the demands declined, so they also slowed production. The contraction started.
@@ -200,3 +210,6 @@ coordinate
 
 
 call loans, refers to short-term loan that a lender demand the borrowers to repay at any time.
+
+
+what do we all need, needy
