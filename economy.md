@@ -12,7 +12,7 @@
 `Net Profit`, also known as `net income` or the `bottom line`, is the amount of money that a company has left after all its expenses are paid.
 
 ### Dilution
-The concept of `dilution` comes from the fact that when the number of shares increases, it reduces the earnings per share (EPS), which is a key measure of a company’s value and profitability3. Therefore, it is important for an investor to review both basic EPS as well as fully diluted EPS1.
+The concept of `dilution` comes from the fact that when the number of shares increases, it reduces the earnings per share (EPS), which is a key measure of a company’s value and profitability. Therefore, it is important for an investor to review both basic EPS as well as fully diluted EPS.
 
 #### Diluted EPS (`E`arnings of `P`er `S`hare).
 
